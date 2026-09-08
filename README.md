@@ -134,12 +134,6 @@ Free to use, no account required. Release history is on the [changelog](https://
 4. Your issues load from the default JQL filter. Adjust the filter, status order, and pins to taste.
 5. Hit play on an issue. Stop when you're done, and push the worklog to Jira.
 
-## Pricing
-
-The Free plan is a complete Jira time tracker, not a trial: unlimited tracking, two-way worklog sync, manual and timer worklogs, history and filters, one-click Push All. Pro adds the calendar and timesheet, automations and reminders, idle detection, reports with CSV export, and team statistics. Team is Pro for the whole workspace on one bill, and Lifetime is Pro paid once. Pro and Team come with a 14-day trial, no card required.
-
-Current prices are on the [pricing section](https://time.planim.app/jira?ref=github#pricing) of the site.
-
 ## How it compares
 
 Honest, feature-by-feature comparisons with the tools most teams evaluate alongside Planim Time:
