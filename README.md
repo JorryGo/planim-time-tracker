@@ -136,14 +136,9 @@ Free to use, no account required. Release history is on the [changelog](https://
 
 ## Pricing
 
-Free forever on the basics. Pro and Team come with a 14-day trial, no card required. Full details on the [pricing section](https://time.planim.app/jira?ref=github#pricing).
+The Free plan is a complete Jira time tracker, not a trial: unlimited tracking, two-way worklog sync, manual and timer worklogs, history and filters, one-click Push All. Pro adds the calendar and timesheet, automations and reminders, idle detection, reports with CSV export, and team statistics. Team is Pro for the whole workspace on one bill, and Lifetime is Pro paid once. Pro and Team come with a 14-day trial, no card required.
 
-| Plan | Price | What you get |
-|---|---|---|
-| **Free** | $0, forever | Unlimited tracking, two-way Jira worklog sync, manual and timer worklogs, history and filters, one-click Push All |
-| **Pro** | $10/month, or $8/month billed annually | Everything in Free, plus calendar and timesheet, automations and reminders, idle detection, reports with CSV export, team worklog visibility |
-| **Team** | $8/seat/month, or $7/seat/month billed annually | Everything in Pro for the whole workspace, one bill, add or remove seats anytime |
-| **Lifetime** | $150, one-time | Everything in Pro plus every future update, no subscription |
+Current prices are on the [pricing section](https://time.planim.app/jira?ref=github#pricing) of the site.
 
 ## How it compares
 
